@@ -2,7 +2,7 @@
 {
     background-image:url(hOye.gif);
     background-position:center;
-    background-size:cover;
+    background-size:contain;
 }
 #myCanvas
 {
